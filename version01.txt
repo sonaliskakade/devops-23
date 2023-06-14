@@ -1,2 +1,2 @@
 this is new feature
-
+This is the bug fix in the dev branch
